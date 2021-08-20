@@ -1,0 +1,22 @@
+Runes Panel
+	Holds all runes, simple here
+
+Champion Info
+	Attack Damage	||	Ability Power
+	Armor		||	Magic Resist
+	Attack Speed	||	Ability Haste
+	Crit Chance	||	Movement Speed
+
+Champion Info Plus
+	Health Regen		||	Resource Regen
+	Lethality/Armor Pen	||	Flat and Percent Magic Pen
+	Life Steal		||	Physical Vamp / Omni Vamp
+	Attack Range		||	Tenacity
+
+Others:
+	*Health
+	*Resource and Resource Amount
+	Crit Damage
+	Heal and Shield Power
+	Slow Resist
+	
