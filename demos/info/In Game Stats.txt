@@ -1,0 +1,9 @@
+Attack Damage		Ability Power
+Armor			Magic Resist
+Attack Speed		Ability Haste
+Crit Chance		Movement Speed
+
+Health Regen		Resource Regen
+Lethality | Armor Pen	Flat | Percent Magic Pen
+Life Steal		Physical Vamp | Omni Vamp
+Attack Range		Tenacity
