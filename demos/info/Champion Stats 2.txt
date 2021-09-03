@@ -1,18 +1,24 @@
+*** ? means that we could put this as more information if it is relevant.
+*** ^ means that it is available from the url-json file.
+
 Runes Panel
 	Holds all runes, simple here
 
+Slider - Next to Champion Image
+^Health Bar || ^Resource Bar
+
 Basic Champ Info
-	Health			||	Resource
-	Attack Damage		||	Ability Power
-	Armor			||	Magic Resist
-	Attack Speed		||	Ability Haste
-	Crit Chance		||	Movement Speed	
+	^Attack Damage		||	Ability Power
+	^Armor			||	^Magic Resist
+	^Attack Speed		||	Ability Haste
+	^Crit Chance ? Crit Dmg	||	^Movement Speed
 
 Advanced Champ Info
-	Health Regen		||	Resource Regen
+	^Health Regen		||	^Resource Regen
 	Lethality | Armor Pen	||	Flat | Percent Magic Pen
 	Life Steal		||	Physical Vamp | Omni Vamp
-	Attack Range		||	Tenacity
+	^Attack Range		||	Tenacity ? Slow Resist
+			? Heal and Shield Power
 ---------------------------------------------------------------------
 	Crit Damage		||	Slow Resist
 	Heal and Shield Power
