@@ -1,3 +1,5 @@
+*** The below link is has a list of stats and images.
+	https://leagueoflegends.fandom.com/wiki/Champion_statistic
 *** ? means that we could put this as more information if it is relevant.
 *** ^ means that it is available from the url-json file.
 
