@@ -1,16 +1,22 @@
 .container {
-    display: flex;
-    width: 100%;
-    height: 125px;
-    background-color: hsla(152, 77%, 7%, 0.92);
+    /* INFO FOR TESTING THE DISPLAY PROPERTY
+            - https://www.w3schools.com/cssref/pr_class_display.asp
+            - https://www.w3schools.com/cssref/playit.asp?filename=playcss_display&preval=inline */
+
+    display: inline-table;
+    /* ! means its good. ? means it is questionable */
+    /* inline, block, contents, inline-block!, inline-table?,  */
+    /* width: 100%; */
+    /* height: 125px; */
+    /* background-color: hsla(152, 77%, 7%, 0.92); */
 }
 
 .statBox {
-    width: 200px;
-    height: 120px;
-    border: 2px solid hsla(51, 82%, 36%, 1);
+    /* width: 200px;
+    height: 150px;
+    border: 2px solid hsla(51, 82%, 36%, 1); */
 }
 
 #championImage {
-    margin-left: 0px;
+    /* margin-left: 0px; */
 }
