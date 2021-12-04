@@ -2,11 +2,11 @@
 /* ! means its good. ? means it is questionable */
 
 .championCardContainer {
-    display: table-cell; /* Still testing if the rest of these fit; start at table-cell and move down the list to inline */
-    /* NOTE: inline, block, contents, inline-block!, inline-table?, list-tem, run-in, table?, table-header-group, table-footer-group, table-row-group, table-cell */
+    display: block;
+    /* NOTE: block, inline-block!, inline-table?, list-item, run-in, table?, table-cell */
     /* NOTE: Currently the width and height do not matter at all (with display: initial) so I will just leave it here for now.  */
-    width: 750px;
-    height: 350px;
+    width: 550px;
+    height: 250px;
     background-color: hsla(152, 77%, 7%, 0.92);
 }
 
